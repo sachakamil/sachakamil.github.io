@@ -1,8 +1,8 @@
 ## Paranoia
 
-You can use the [editor on GitHub](https://github.com/sachakamil/sachakamil.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+first line description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+second line description with a lin to [Jekyll](https://jekyllrb.com/)
 
 ### Markdown
 
